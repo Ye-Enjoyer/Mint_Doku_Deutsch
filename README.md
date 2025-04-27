@@ -1,2 +1,2 @@
 # Mintrice
-Rice
+Dient als errinerung fürs Ricing.
