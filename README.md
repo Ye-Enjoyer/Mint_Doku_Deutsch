@@ -1,2 +1,2 @@
 # Mintrice
-Dient als errinerung fürs Ricing.
+In Mint kann man unter "Themes" diverse Designs Herunterladen und Anwenden. 
