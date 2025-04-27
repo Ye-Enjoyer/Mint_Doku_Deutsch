@@ -2,7 +2,7 @@
 
 unzip themename.zip
 
-#Kopiere das Theme directory
+#Kopiere das Theme von Donwlaods auf den grub/themes/ pfad
 
 sudo cp -r dark-matter /boot/grub/themes/
 
