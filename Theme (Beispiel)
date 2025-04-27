@@ -1,0 +1,17 @@
+#Download Theme und Extract
+
+unzip themename.zip
+
+#Kopiere das Theme directory
+
+sudo cp -r dark-matter /boot/grub/themes/
+
+#Grub config file ändern
+
+sudo nano /etc/default/grub
+
+#Bei der Zeile GRUB_THEME= auf GRUB_THEME="/boot/grub/themes/dark-matter/theme.txt" ändern
+
+Als letztes Grub Aktualisieren
+
+sudo grub-mkconfig -o /boot/grub/grub.cfg
