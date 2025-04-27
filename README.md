@@ -1,0 +1,2 @@
+# Mintrice
+Rice
