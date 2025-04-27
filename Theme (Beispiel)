@@ -12,6 +12,6 @@ sudo nano /etc/default/grub
 
 #Bei der Zeile GRUB_THEME= auf GRUB_THEME="/boot/grub/themes/dark-matter/theme.txt" ändern
 
-Als letztes Grub Aktualisieren
+#Als letztes Grub Aktualisieren
 
 sudo grub-mkconfig -o /boot/grub/grub.cfg
