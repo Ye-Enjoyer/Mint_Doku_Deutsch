@@ -3,10 +3,12 @@
 mkdir -p ~/.config/neofetch
 neofetch --print_config > ~/.config/neofetch/config.conf
 
-#dannach kann man Bearbeiten
+#Jetzt kann man neofetch Bearbeiten, Z.b. "Info" die man nicht möchte rausnehmen
 
 sudo Nano ~/.config/neofetch/config.conf
 
 #Bei colors=(distro) auf colors=4 für Blau
 #Um die Farben-Blöcke wegzumachen color_blocks="on" zu color_blocks="off"
 
+#Damit Neofetch direkt beim öffnen des Temrinals erscheint, In Home directory bashrc anpassen
+#"neofetch" in eine neue zeile z.b. ganz unten schreiben
