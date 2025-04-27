@@ -1,0 +1,12 @@
+#Mit Befehl die Directory erstellen
+
+mkdir -p ~/.config/neofetch
+neofetch --print_config > ~/.config/neofetch/config.conf
+
+#dannach kann man Bearbeiten
+
+sudo Nano ~/.config/neofetch/config.conf
+
+#Bei colors=(distro) auf colors=4 für Blau
+#Um die Farben-Blöcke wegzumachen color_blocks="on" zu color_blocks="off"
+
