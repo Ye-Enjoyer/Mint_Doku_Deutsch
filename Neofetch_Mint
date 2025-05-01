@@ -23,3 +23,27 @@ nano ~/.config/neofetch/config.conf
 #dann direkt im nächsten Block unter "Image Source" auf z.b. image_source="/home/rojhat/Documents/myascii.txt" stellen
 
 Jetzt sollte das Bild zusehen sein, In den Temrinal Preferences kann man die default größe des Terminals anpassen falls ascii bild groß ist
+
+
+#Bild als Beispiel
+
+   __
+  /_/l
+ : : :
+  ; ; ;
+  : : :
+   L ; ;  __.-._.-+.
+  /."^.:.L.' .^-.  \`.
+ :`.`. \"/\ /.-. `. \ \
+ ;\ \ ` ;-.y(_.-\  \ `.`.
+ :   _. ;;  `    \  \. `-\
+  \ T :: :=,   ,=^\  \"-._;          __..------.._
+  /;:-'; ; `._L.--^.     .-""-.`.   \     ""--..
+ : :_.': :           ;/     \   /      \ \   ;          ""--._
+ ;  T   \ \  s      /:.---.  ;_/    `-._; ;  :     ______    \"-.      ___
+:   :\   \ `.-=^" .:-"    _\   \_.      : :  _:.--".-"  .T"---:-.""--""\  ""-.
+;    \\   "-.\__.:'      /-'. ; ;    _. ; ;  /   -'    '    .- \        ;     "-._.-"""""-,
+:     ;\     `..'      .'    \: ;      / / .'               )   ;  __  /         T        :
+ ;      `,     \    .-"       ;/"---" /.' /                 `- /"""  ""---""""----..___..-'
+ :    .-" `.      .'.-\      / ""----""""^-.._              .-"
+  \_.'      "._.-"-..-'`-..-'                 ""--..__..--""
