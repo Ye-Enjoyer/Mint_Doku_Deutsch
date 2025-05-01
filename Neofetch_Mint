@@ -12,3 +12,14 @@ sudo Nano ~/.config/neofetch/config.conf
 
 #Damit Neofetch direkt beim öffnen des Temrinals erscheint, In Home directory bashrc anpassen
 #"neofetch" in eine neue zeile z.b. ganz unten schreiben
+
+
+#für custom ascii art eine .txt datei z.b. in Documents erstellen und irgendein ascii art reinpacken, Datei kann myascii.txt heißen
+#dann wieder in die config.conf gehen zum bearbeiten
+
+nano ~/.config/neofetch/config.conf
+
+#nach "Backend" zeile suchen und sicherstellen das dort unten image_backend="ascii" drinn steht, falls nicht, ändern
+#dann direkt im nächsten Block unter "Image Source" auf z.b. image_source="/home/rojhat/Documents/myascii.txt" stellen
+
+Jetzt sollte das Bild zusehen sein, In den Temrinal Preferences kann man die default größe des Terminals anpassen falls ascii bild groß ist
