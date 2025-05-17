@@ -19,3 +19,17 @@ Optional: Man kann auch das Bilder über das Terminal (Tastenkombination: strg +
 Dafür kann man folgenden Befehl nutzen: mv ~/Downloads/Bild.jpg ~/Pictures/
 
 An der Stelle "Bild.jpg" kommt dann der Name von dem Heruntergeladenem Bild. 
+
+
+
+#Panel anpassen
+Um die Panel Position zu ändern kann man mit einem rechtsklick auf dem Panel "Move" klicken womit dann jede seite Rot aufleuchten wird. wenn man auf eine der rot aufleuchtenen flächen klickt (z.b. Oben) bewegt sich das Panel dorthin. 
+
+![Panel1](https://github.com/user-attachments/assets/099be6bf-46da-4140-b54f-dcdf424df8e8)
+
+
+Sobald das Panel an der gewollten stelle ist kann man wieder mit einem rechtsklick am Panel den "Panel edit mode" anschalten. In diesem Modus kann man z.b. die Uhrzeit von ganz rechts in die Mitte Positionieren. Zum verschieben die Uhrzeit anklicken und gedrückt halten, dann in die mitte zur grün leuchtenen fläche ziehen. 
+
+![Panel2](https://github.com/user-attachments/assets/9ce41708-f098-4cc3-8d0f-f750738cc28e)
+
+Als nächsten sollte man im Panel edit mode die symbole und ordner entfernen. Entfernt werden dadurch nur die symbole auf dem panel und nicht die Programme selbst. 
