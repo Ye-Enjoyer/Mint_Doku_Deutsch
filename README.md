@@ -33,3 +33,38 @@ Sobald das Panel an der gewollten stelle ist kann man wieder mit einem rechtskli
 ![Panel2](https://github.com/user-attachments/assets/9ce41708-f098-4cc3-8d0f-f750738cc28e)
 
 Als nächsten sollte man im Panel edit mode die symbole und ordner entfernen, die man nicht braucht. Entfernt werden dadurch nur die symbole auf dem panel und nicht die Programme selbst. 
+Man Kann im Main Menu nach "Applets" Suchen und z.b "weather" oder etwas anderes Installieren. Die Applets tauchen dann im Panel auf. 
+
+
+Wir möchten jetzt ein neues Panel unten erstellen. Mit rechtsklick auf dem Panel dann die Settings anpassen. Empfehlenswert ist es die "height" höher zustellen und auto hide auf intellegent zu stellen. Einstellung sprgt dafür das das Panel automatisch verschwindet und auftaucht.
+
+![Panel3](https://github.com/user-attachments/assets/7dd68f7f-1565-4da0-84a0-8b6fab70b49b)
+
+Anschließend aus dem edit mode rausgehen , rachtsklick auf dem Panel und das Applet "Grouped window list" hinzufügen. 
+
+![Panel4](https://github.com/user-attachments/assets/687a0253-8a14-409a-8f65-5dfe209955b4)
+
+
+Im Panel edit Mode dann alles die Grouped window list in die Mitte schieben. Als letztes Möchten wir das Panel Transparent machen. 
+Dafür müssen wir im Main Menu die "Extensions" suchen und die extension "Transparent Panels" installieren und Aktivieren. 
+
+
+![Panel5](https://github.com/user-attachments/assets/3b1c3c76-32a7-431e-ae1a-307656558a85)
+
+
+![Panel6](https://github.com/user-attachments/assets/3f58214b-fbf9-4f0a-9778-ae952b08c4b6)
+
+
+
+#Themes hinzufügen
+Linux Mint bringt viele Themes mit sich. Hier kann man Icons, Mauszeiger usw. einstellen. Dafür im Main Menu nach "Themes" suchen und z.b. auf dark klicken. Als nächstes auf "Advances settings" gehen und dort dann weitere aspekte anpassen. 
+
+
+![Themes1](https://github.com/user-attachments/assets/c89e7a20-04f3-413a-9e0d-f128ae57437b)
+
+
+![Themes2](https://github.com/user-attachments/assets/44224900-5564-479b-a906-c99340be3d00)
+
+
+
+Das wars mit den Basic Customizations ~
