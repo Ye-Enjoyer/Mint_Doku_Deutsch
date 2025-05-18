@@ -20,7 +20,7 @@ sudo Nano ~/.config/neofetch/config.conf
 nano ~/.config/neofetch/config.conf
 
 #nach "Backend" zeile suchen und sicherstellen das dort unten image_backend="ascii" drinn steht, falls nicht, ändern
-#dann direkt im nächsten Block unter "Image Source" auf z.b. image_source="/home/rojhat/Documents/myascii.txt" stellen
+#dann direkt im nächsten Block unter "Image Source" auf z.b. image_source="/home/"Username"/Documents/myascii.txt" stellen
 
 Jetzt sollte das Bild zusehen sein, In den Temrinal Preferences kann man die default größe des Terminals anpassen falls ascii bild groß ist
 
