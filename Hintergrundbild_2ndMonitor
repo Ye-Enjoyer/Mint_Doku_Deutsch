@@ -11,4 +11,4 @@ sudo apt install feh
 #erster pfad ist für den Linken Bildschirm und zweiter für den Rechten
 feh --bg-scale /home/USERNAME/Pictures/wallpaperflare.com_wallpaper.jpg /home/USERNAME/Pictures/wallpaperflare.com_wallpaper1.jpg
 
-
+#Befehl als Skript während dem startup einrichten, weil cinammon feh einstellungen überschreibt
