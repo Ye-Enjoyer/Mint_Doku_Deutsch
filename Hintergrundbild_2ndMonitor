@@ -1,0 +1,14 @@
+#Linux_Mint Cinammon DE 
+
+#Mint sieht beide Bildschirme als ein großes was dazu führt das man nicht unterschiedliche hintergründe nutzen kann
+
+#um das zu umgehen nutze das Programm Feh
+
+#Installiere Feh
+sudo apt install feh
+
+#in diesem beispiel command sind die Bilder in Pictures, nicht vergessen den Usernamen umzuändern
+#erster pfad ist für den Linken Bildschirm und zweiter für den Rechten
+feh --bg-scale /home/USERNAME/Pictures/wallpaperflare.com_wallpaper.jpg /home/USERNAME/Pictures/wallpaperflare.com_wallpaper1.jpg
+
+
